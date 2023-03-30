@@ -1,2 +1,2 @@
-# legacy
-dashlegacyv2
+# dash
+dashlegacy
